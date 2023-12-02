@@ -46,7 +46,7 @@ int main()  {
 		cin>>x>>y; 
 		//cout<<power1(x,y)<<endl;: 3phut
 		//cout<<power2(x,y)<<endl;:1/10 sec
-		cout<<power3(x,y)<<endl;://1/10sec
+		cout<<power3(x,y)<<endl;//1/10sec
 	}
 }  
 // x = 10000000000; y=1
